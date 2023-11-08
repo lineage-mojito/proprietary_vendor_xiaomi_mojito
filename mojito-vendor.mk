@@ -429,6 +429,7 @@ PRODUCT_PACKAGES += \
     libmibokeh_712 \
     libmpbase \
     libnotifyaudiohal \
+    liboemcrypto \
     libremosaic_wrapper \
     libremosaiclib \
     libsdk_sr \
