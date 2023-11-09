@@ -364,7 +364,6 @@ PRODUCT_PACKAGES += \
     libFaceGrade \
     libHalSuperSensorServer \
     libI420colorconvert \
-    libMegviiFacepp-0.5.2 \
     libSNPE \
     libSuperSensor \
     libSuperSensorCPU \
@@ -414,7 +413,6 @@ PRODUCT_PACKAGES += \
     libhbtpdsp \
     libhbtpfrmwk \
     libhvx_interface \
-    libmegface \
     libmiStereoFactoryRemapBasicLib \
     libmiStereoFactoryRemapLib \
     libmiStereoFactoryRemapLib_v2 \
